@@ -1,0 +1,52 @@
+input_symbol	status	ensembl_id	gene_name	chromosome	start	end	strand	biotype	assembly	species
+HBB	ok	ENSG00000244734	HBB	11	5225464	5229395	-	protein_coding	GRCh38	homo_sapiens
+ECYT6	not_found									homo_sapiens
+ECYT7	not_found									homo_sapiens
+ECYT8	not_found									homo_sapiens
+HBA2	ok	ENSG00000188536	HBA2	16	172876	173710	+	protein_coding	GRCh38	homo_sapiens
+HBH	not_found									homo_sapiens
+CYB5R3	ok	ENSG00000100243	CYB5R3	22	42615730	42720870	-	protein_coding	GRCh38	homo_sapiens
+DIA1	ok	ENSG00000181744	DIPK2A	3	143971823	144048719	+	protein_coding	GRCh38	homo_sapiens
+B5R	ok	ENSG00000100243	CYB5R3	22	42615730	42720870	-	protein_coding	GRCh38	homo_sapiens
+HBA1	ok	ENSG00000206172	HBA1	16	176680	177522	+	protein_coding	GRCh38	homo_sapiens
+METHBA	not_found									homo_sapiens
+KLF1	ok	ENSG00000105610	KLF1	19	12884422	12887201	-	protein_coding	GRCh38	homo_sapiens
+F8	ok	ENSG00000185010	F8	X	154835788	155026940	-	protein_coding	GRCh38	homo_sapiens
+F8C	ok	ENSG00000185010	F8	X	154835788	155026940	-	protein_coding	GRCh38	homo_sapiens
+HEMA	ok	ENSG00000185010	F8	X	154835788	155026940	-	protein_coding	GRCh38	homo_sapiens
+ABO	ok	ENSG00000175164	ABO	9	133233278	133276024	-	protein_coding	GRCh38	homo_sapiens
+GYPA	ok	ENSG00000170180	GYPA	4	144109303	144140751	-	protein_coding	GRCh38	homo_sapiens
+B3GALT3	ok	ENSG00000169255	B3GALNT1	3	161083612	161105445	-	protein_coding	GRCh38	homo_sapiens
+A4GALT	ok	ENSG00000128274	A4GALT	22	42691010	42721298	-	protein_coding	GRCh38	homo_sapiens
+RHD	ok	ENSG00000187010	RHD	1	25272393	25330445	+	protein_coding	GRCh38	homo_sapiens
+LU	ok	ENSG00000187244	BCAM	19	44809070	44821421	+	protein_coding	GRCh38	homo_sapiens
+KEL	ok	ENSG00000197993	KEL	7	142941114	142962363	-	protein_coding	GRCh38	homo_sapiens
+FUT3	ok	ENSG00000171124	FUT3	19	5842888	5851471	-	protein_coding	GRCh38	homo_sapiens
+ACKR1	ok	ENSG00000213088	ACKR1	1	159204568	159206500	+	protein_coding	GRCh38	homo_sapiens
+SLC14A1	ok	ENSG00000141469	SLC14A1	18	45687025	45752521	+	protein_coding	GRCh38	homo_sapiens
+SLC4A1	ok	ENSG00000004939	SLC4A1	17	44248390	44268141	-	protein_coding	GRCh38	homo_sapiens
+ACHE	ok	ENSG00000087085	ACHE	7	100889994	100897022	-	protein_coding	GRCh38	homo_sapiens
+ERMAP	ok	ENSG00000164010	ERMAP	1	42817078	42845907	+	protein_coding	GRCh38	homo_sapiens
+ART4	ok	ENSG00000111339	ART4	12	14825569	14843526	-	protein_coding	GRCh38	homo_sapiens
+AQP1	ok	ENSG00000240583	AQP1	7	30911720	30925517	+	protein_coding	GRCh38	homo_sapiens
+ICAM4	ok	ENSG00000105371	ICAM4	19	10286955	10288522	+	protein_coding	GRCh38	homo_sapiens
+C4A	ok	ENSG00000244731	C4A	6	31981991	32004877	+	protein_coding	GRCh38	homo_sapiens
+FUT1	ok	ENSG00000174951	FUT1	19	48748011	48755390	-	protein_coding	GRCh38	homo_sapiens
+XL	not_found									homo_sapiens
+GYPC	ok	ENSG00000136732	GYPC	2	126655938	126696667	+	protein_coding	GRCh38	homo_sapiens
+CD55	ok	ENSG00000196352	CD55	1	207321514	207386804	+	protein_coding	GRCh38	homo_sapiens
+CR1	ok	ENSG00000203710	CR1	1	207496147	207641776	+	protein_coding	GRCh38	homo_sapiens
+CD44	ok	ENSG00000026508	CD44	11	35138882	35232402	+	protein_coding	GRCh38	homo_sapiens
+BSG	ok	ENSG00000172270	BSG	19	571277	583498	+	protein_coding	GRCh38	homo_sapiens
+CD151	ok	ENSG00000177697	CD151	11	832705	839831	+	protein_coding	GRCh38	homo_sapiens
+SEMA7A	ok	ENSG00000138623	SEMA7A	15	74409289	74433958	-	protein_coding	GRCh38	homo_sapiens
+GCNT2	ok	ENSG00000111846	GCNT2	6	10492223	10629368	+	protein_coding	GRCh38	homo_sapiens
+RHAG	ok	ENSG00000112077	RHAG	6	49605175	49636839	-	protein_coding	GRCh38	homo_sapiens
+ABCG2	ok	ENSG00000118777	ABCG2	4	88090150	88231818	-	protein_coding	GRCh38	homo_sapiens
+ABCB6	ok	ENSG00000115657	ABCB6	2	219209766	219219012	-	protein_coding	GRCh38	homo_sapiens
+SMIM1	ok	ENSG00000235169	SMIM1	1	3772655	3776709	+	protein_coding	GRCh38	homo_sapiens
+CD59	ok	ENSG00000085063	CD59	11	33703010	33736639	-	protein_coding	GRCh38	homo_sapiens
+B4GALNT2	ok	ENSG00000167080	B4GALNT2	17	49132460	49178647	+	protein_coding	GRCh38	homo_sapiens
+PIGG	ok	ENSG00000174227	PIGG	4	499210	540200	+	protein_coding	GRCh38	homo_sapiens
+PIEZO1	ok	ENSG00000103335	PIEZO1	16	88715338	88785251	-	protein_coding	GRCh38	homo_sapiens
+CD36	ok	ENSG00000135218	CD36	7	80369532	80679277	+	protein_coding	GRCh38	homo_sapiens
